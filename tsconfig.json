@@ -4,10 +4,10 @@
   "files": [],
   "references": [
     {
-      "path": "./libs"
+      "path": "./libs/vue-tabulator"
     },
     {
-      "path": "./libs/vue-tabulator"
-    }
+      "path": "./apps/vue-app"
+    },
   ]
 }
