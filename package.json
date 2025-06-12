@@ -47,7 +47,7 @@
   "dependencies": {
     "vue": "^3.5.16"
   },
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.12.1",
   "nx": {
     "includedScripts": [],
     "targets": {
