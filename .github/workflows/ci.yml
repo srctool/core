@@ -29,7 +29,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'npm'
+          package-manager: pnpm
+          # cache: 'npm'
 
       - run: npm ci --legacy-peer-deps
       - uses: nrwl/nx-set-shas@v4
