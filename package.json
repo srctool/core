@@ -38,12 +38,10 @@
     "vitest": "^3.2.3",
     "vue-tsc": "^2.2.10"
   },
-  "workspaces": [
-    "libs/vue-tabulator"
-  ],
   "dependencies": {
     "vue": "^3.5.16"
   },
+  "packageManager": "pnpm@10.10.0",
   "nx": {
     "includedScripts": [],
     "targets": {
